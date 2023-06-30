@@ -1,0 +1,56 @@
+ body {
+     font-family: Arial, sans-serif;
+     background-color: #f8f8f8;
+     margin: 0;
+     padding: 0;
+ }
+
+/* Стилі для навігаційного меню */
+.navbar {
+    background-color: #333;
+    padding: 10px;
+}
+
+.navbar-brand {
+    font-size: 24px;
+    font-weight: bold;
+    color: #fff;
+}
+
+.navbar-nav .nav-link {
+    font-size: 18px;
+    color: #fff;
+    margin-right: 10px;
+}
+
+/* Стилі для розділів */
+section {
+    padding: 50px 0;
+    text-align: center;
+}
+
+h2 {
+    font-size: 36px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.5;
+    color: #555;
+}
+
+/* Стилі для підвалу */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+footer p {
+    font-size: 14px;
+}
+
